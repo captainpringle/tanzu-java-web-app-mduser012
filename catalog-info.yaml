@@ -9,7 +9,6 @@ metadata:
     - spring
     - web
     - tanzu
-    - thomas
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-java-web-app-mduser012'
 spec:
